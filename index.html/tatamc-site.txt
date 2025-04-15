@@ -1,0 +1,24 @@
+!DOCTYPE html
+html lang=pt-BR
+head
+  meta charset=UTF-8
+  titleTatá Mctitle
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  link rel=stylesheet href=style.css
+head
+body
+  header
+    img src=assetsimgsua-foto.jpg alt=Tatá Mc class=foto
+    h1Tatá Mch1
+    p class=fraseSe você acredita que a música pode transformar, esse espaço é seu.p
+  header
+
+  nav
+    ul
+      lia href=httpswww.instagram.comtatamc01 target=_blankInstagramali
+      lia href=httpslinktr.eetatamc target=_blankLinktreeali
+      lia href=mailtotatamc@email.comContatoali
+    ul
+  nav
+body
+html
